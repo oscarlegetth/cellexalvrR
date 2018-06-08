@@ -1,5 +1,5 @@
 #'Adds mds coordinates to a cellexalvrObj
-#'@param cellexalObj A cellexalvr object
+#'@param cellexalObj A cellexalvr object test
 #'@param mdsmatrix A matrix of coordinates
 #' @param name A name for the object (default = graph<n>)
 #'@export addMDS2cellexalvr
